@@ -1,7 +1,7 @@
 /*
 Analyzing US Police Shootings 2015-2022 (2022 data only up to August)
 
-Skills used: Joins, CTE's, Window Functions, Aggregate Functions, CASE Function, 
+Skills used: Joins, CTE's, Window Functions, Aggregate Functions, CASE Function 
 
 */
 
